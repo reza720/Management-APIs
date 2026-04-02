@@ -1,6 +1,6 @@
 ## Follow These Steps to Build These APIs
 1. **Define the Management System**
-2. **Define Use Cases of the System**
+2. **Define Use Cases of the System** What actions can a manager perform using the system?
 3. **Define Business Rules for the Use Cases**
 4. **Define Models Based on the Business Rules**
 5. **Design APIs / Routes / Endpoints**
